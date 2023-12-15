@@ -1,10 +1,4 @@
-# Smart Resume Analyser App
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
-
-## [Watch Tutorial for this project](https://youtu.be/hqu5EYMLCUw)
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/yt_thumb.jpg">
+# Qualify Me
 
 ## [Get the project Report, PPT, and Diagrams](https://kushalbhavsar1820.stores.instamojo.com/product/864991/smart-resume-analyzer-ppt-report-and-diagram-c091f/)
 ## Source
@@ -38,15 +32,6 @@
 - `Classifier.py` is the main file which is containing a KNN Algorithm.
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 - Admin side credentials is `machine_learning_hub` and password is `mlhub123`. 
-
-## Screenshots
-
-## User side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
-
-## Admin Side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
-
 
 ## Just follow☝️ me and Star⭐ my repository 
 
