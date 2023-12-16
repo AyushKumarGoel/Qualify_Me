@@ -14,7 +14,7 @@ The Quallify Me is a Smart Resume Analyzer which is a powerful tool designed to 
 <li>Customizable Recommendations: Offers tailored suggestions to improve the resume based on industry standards and job requirements.</li>
 <li>Scalable and Fast: Processes resumes swiftly, enabling quick analysis even for a large number of documents.</li>
 </ul>
-## How It Works
+<h1>How It Works</h1>
 <p>The Smart Resume Analyzer utilizes a combination of natural language processing (NLP) techniques and pattern recognition to comprehend and evaluate resumes. The workflow involves:</p>
 <ol>
 <li>Input: Upload the resume file (supported formats: PDF, DOCX) or provide text input.</li>
